@@ -4,7 +4,9 @@
     "description": "Looking for a starting point or more instructions?",
     "documentation": "Head over to <link1>Templates</link1> or the <link2>Learning</link2> center.",
     "btn-deploy": "Deploy Now",
-    "btn-documentation": "Documentation"
+    "btn-documentation": "Next.js Documentation",
+    "btn-shadcn": "Shadcn UI",
+    "btn-next-intl": "next-intl"
   },
   "common": {
     "light": "Light",
