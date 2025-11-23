@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app) with tailwind, shadcn ui, theming and localization by next-intl.
+
 
 ## Getting Started
 
@@ -28,6 +29,11 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+
+### More about this template
+- [Shadcn UI](https://ui.shadcn.com)
+- [next-theme with shadcn UI](https://ui.shadcn.com/docs/dark-mode/next)
+- [next-intl](https://next-intl.dev/docs/getting-started)
 
 ## Deploy on Vercel
 
