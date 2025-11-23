@@ -83,6 +83,16 @@ export default function Home() {
             {t('btn-next-intl')}
           </a>
         </div>
+        <div>
+          <a
+            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/8 px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a]"
+            href="https://github.com/nurulai/next-shadcn-localization"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            {t('btn-source-code')}
+          </a>
+        </div>
       </main>
     </div>
   );
