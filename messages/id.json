@@ -1,0 +1,16 @@
+{
+  "app": {
+    "title": "Untuk memulai, edit file page.tsx.",
+    "description": "Mencari titik awal atau instruksi lebih lanjut?",
+    "documentation": "Kamu bisa kunjungi <link1>Templates</link1> atau <link2>Learning</link2> center.",
+    "btn-deploy": "Deploy Sekarang",
+    "btn-documentation": "Dokumentasi"
+  },
+  "common": {
+    "light": "Terang",
+    "dark": "Gelap",
+    "system": "Sistem",
+    "id": "Indonesia",
+    "en": "Inggris"
+  }
+}

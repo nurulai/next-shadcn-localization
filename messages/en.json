@@ -1,0 +1,16 @@
+{
+  "app": {
+    "title": "To get started, edit the page.tsx file.",
+    "description": "Looking for a starting point or more instructions?",
+    "documentation": "Head over to <link1>Templates</link1> or the <link2>Learning</link2> center.",
+    "btn-deploy": "Deploy Now",
+    "btn-documentation": "Documentation"
+  },
+  "common": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System",
+    "id": "Indonesia",
+    "en": "English"
+  }
+}

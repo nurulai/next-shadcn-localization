@@ -1,14 +1,9 @@
-import { ThemeProvider } from "./client-providers/theme-provider";
+import { ClientProviders } from "./client-providers";
 
 export default function Providers({ children }: { children: React.ReactNode }) {
   return (
-    <ThemeProvider
-      attribute="class"
-      defaultTheme="system"
-      enableSystem
-      disableTransitionOnChange
-    >
+    <ClientProviders>
       {children}
-    </ThemeProvider>
+    </ClientProviders>
   );
 }
