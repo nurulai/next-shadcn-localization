@@ -6,7 +6,8 @@
     "btn-deploy": "Deploy Now",
     "btn-documentation": "Next.js Documentation",
     "btn-shadcn": "Shadcn UI",
-    "btn-next-intl": "next-intl"
+    "btn-next-intl": "next-intl",
+    "btn-source-code": "Source Code"
   },
   "common": {
     "light": "Light",

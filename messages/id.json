@@ -6,7 +6,8 @@
     "btn-deploy": "Deploy Sekarang",
     "btn-documentation": "Dokumentasi Next.js",
     "btn-shadcn": "Shadcn UI",
-    "btn-next-intl": "next-intl"
+    "btn-next-intl": "next-intl",
+    "btn-source-code": "Source Code"
   },
   "common": {
     "light": "Terang",
